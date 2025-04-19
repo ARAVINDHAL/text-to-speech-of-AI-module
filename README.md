@@ -1,4 +1,6 @@
 # text-to-speech-of-AI-module
+pip install gTTS
+#To speech converts
 from gtts import gTTS
 import os
 mytext = 'hi AL !'
